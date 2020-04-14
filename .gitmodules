@@ -1,0 +1,4 @@
+[submodule "demo1"]
+	path = demo1
+	url = https://github.com/shrikar007/demo1.git
+	branch = master
